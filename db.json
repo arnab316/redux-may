@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "name": "Nicholas Rutherford II",
+      "id": 2
+    },
+    {
+      "name": "Thelma Heathcote I",
+      "id": 3
+    },
+    {
+      "name": "Blake Grant III",
+      "id": 4
+    },
+    {
+      "name": "Ms. Tommie Keebler",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 2
+    },
+    {
+      "userId": 5,
+      "title": "Fantastic Plastic Keyboard",
+      "id": 11
+    },
+    {
+      "userId": 5,
+      "title": "Intelligent Steel Computer",
+      "id": 12
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=25290",
+      "id": 10
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=28100",
+      "id": 12
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=11918",
+      "id": 15
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=83429",
+      "id": 16
+    }
+  ]
+}
